@@ -1,5 +1,14 @@
-# Yandex Maps Patcher
-Скрывает рекламу и навязчивые сервисы в приложении [Яндекс Карты](https://apps.rustore.ru/app/ru.yandex.yandexmaps)
+<div align="center">
+<h1>Yandex Maps Patcher</h1>
+
+![downloads](https://img.shields.io/github/downloads/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/total)
+[![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/releases)
+[![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/releases)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
+[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033)
+
+<p>Скрывает рекламу и навязчивые сервисы в приложении <a href="https://apps.rustore.ru/app/ru.yandex.yandexmaps">Яндекс Карты</a></p>
+</div>
 
 ### Общее:
 - Запуск настроек: Профиль —> настройки —> О приложении
@@ -39,9 +48,6 @@
 - При первичном старте а так же после сброса данных Яндекс Карт не держите включенной опцию "Уведомления" будет баг.
 - Не был найден один вариант баннера, в режиме навигатора увеличенного размера названия организаций у дороги. Не путать с выскакивающий вариацией.
 - Доступ к Android Auto сделан теоретически, к сожалению нет возможности постоянного тестирования данного функционала.
-
-### Автор:
-[4pda](https://4pda.to/forum/index.php?showtopic=603033) или [Telegram](https://t.me/lsposed_workshop)
 
 ## For non-Russian users:
 This is a module for the russian cartographic service [Yandex Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps).
