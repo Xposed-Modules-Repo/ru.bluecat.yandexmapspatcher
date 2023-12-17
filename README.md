@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher)](https://github.com/Xposed-Modules-Repo/ru.bluecat.yandexmapspatcher/releases)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
-[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&st=1120#entry126968779)
+[![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=126968779)
 
 <p>Скрывает рекламу и навязчивые сервисы в приложении <a href="https://apps.rustore.ru/app/ru.yandex.yandexmaps">Яндекс Карты</a></p>
 </div>
