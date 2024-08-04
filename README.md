@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=126968779)
 
-<p>Скрывает рекламу и навязчивые сервисы в приложении <a href="https://apps.rustore.ru/app/ru.yandex.yandexmaps">Яндекс Карты</a></p>
+<p>Скрывает рекламу и навязчивые сервисы в приложении <a href="https://www.rustore.ru/catalog/app/ru.yandex.yandexmaps">Яндекс Карты</a></p>
 </div>
 
 ### Общее:
@@ -41,7 +41,7 @@
 
 ### Требования:
 - Android 8.0+
-- Установленное приложение [Яндекс Карты](https://apps.rustore.ru/app/ru.yandex.yandexmaps)
+- Установленное приложение [Яндекс Карты]("https://www.rustore.ru/catalog/app/ru.yandex.yandexmaps)
 
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Яндекс Карт.
