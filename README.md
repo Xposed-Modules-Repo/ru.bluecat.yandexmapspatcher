@@ -7,12 +7,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/lsposed_workshop)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/lsposed_workshop_forum)
 [![4PDA](https://img.shields.io/badge/4PDA-Topic-blue)](https://4pda.to/forum/index.php?showtopic=603033&view=findpost&p=126968779)
+[![Donate](https://img.shields.io/badge/Donate_Form-blue)](https://pay.cloudtips.ru/p/85f8cf00)
 
 <p>Скрывает рекламу и навязчивые сервисы в приложении <a href="https://www.rustore.ru/catalog/app/ru.yandex.yandexmaps">Яндекс Карты</a></p>
 </div>
 
 ### Общее:
-- Запуск настроек: Долгое нажатие на иконку профиля у поисковой строки
+- Запуск настроек: Долгое нажатие на иконку профиля на главной
 - Яндекс.Плюс для Android Auto и музыка включены всегда
 
 ### Контролируемый функционал:
@@ -23,11 +24,11 @@
 - Список категорий на карточках зданий
 - Управление видом поисковой строки
 - Блокировка появления уведомлений и стартовых историй на главной
+- Скрытие профиля с социальной сетью
 
 ### Платные сервисы (скрытие):
 - Яндекс.Плюс
 - Такси
-- Каршеринг
 - Заправки
 - Парковки
 
@@ -47,7 +48,7 @@
 ### Обратите внимание:
 - Модульная часть использует рут возможности для завершения процесса и работой с файлами в личной папке Яндекс Карт.
 - Доступ к Android Auto сделан теоретически, к сожалению нет возможности постоянного тестирования данного функционала.
-- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/LSPosed/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
+- Модуль имеет возможность работать в режиме [LSPatch](https://github.com/JingMatrix/LSPatch), требуются некоторые подготовительные процессы, подробнее смотрите в telegram канале.
 
 ## For non-Russian users:
 This is a module for the russian cartographic service [Yandex Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps).
